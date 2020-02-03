@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-02-03T10:01:52.448Z</updated>
+    <updated>2020-02-03T10:03:21.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>心中是语法，笔下格式化</subtitle>
     <logo>http://anzusummer.github.io/images/avatar.png</logo>
     <icon>http://anzusummer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
