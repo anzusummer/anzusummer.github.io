@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-07T07:23:35.101Z</updated>
+    <updated>2020-03-09T06:50:10.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>http://anzusummer.github.io/images/avatar.png</logo>
     <icon>http://anzusummer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
+    <entry>
+        <title type="html"><![CDATA[实时在线本地视频翻译 看片神器]]></title>
+        <id>http://anzusummer.github.io/post/shi-shi-zai-xian-ben-di-shi-pin-fan-yi-kan-pian-shen-qi/</id>
+        <link href="http://anzusummer.github.io/post/shi-shi-zai-xian-ben-di-shi-pin-fan-yi-kan-pian-shen-qi/">
+        </link>
+        <updated>2020-03-09T04:55:22.000Z</updated>
+        <content type="html"><![CDATA[<p>总有一些外国动作影片，让不懂外语的你只能欣赏人物动作而不能领悟其剧情的精髓。我也为不能完全欣赏艺术而悲伤无奈，一直想要一个可以给本地视频实时翻译的软件，时至今日终于找到了！</p>
+<p><img src="http://ww1.sinaimg.cn/large/da7ef3b4gy1gcnl91bwkvj20xs0ostbu.jpg" alt="undefined" loading="lazy"><br>
+简单来说就是可以实时在线本地视频翻译的软件，软件PC平台，需要登录联网翻译，免费下载免费使用，可以翻译系统本地视频和网页视频还有播放器视频，自动生成双语字幕。</p>
+<center><font color=#0052FF>小译同传</font></center>  
+<ul>
+<li>实时把麦克风声音翻译为字幕</li>
+<li>翻译系统声音为字幕</li>
+<li>(如来自你看的网络电影, 仅支持部分应用, 见使用说明)</li>
+<li>目前支持中英, 英中, <strong>日中</strong>语音翻译👌👈</li>
+</ul>
+<p>首先下载安装打开软件，电脑屏幕上就会出现一个半透明的悬浮窗<br>
+然后需要先在左上角注册登陆账号<br>
+<img src="http://anzusummer.github.io//post-images/1583735186167.png" alt="" loading="lazy"><br>
+右边选择可以选择声音来源，如果翻译电影选择系统就行<br>
+然后点击开始，就会自动录音然后开始翻译了</p>
+<p>速度=网速+延迟(亿点点)🙌不过对于你们应该够用了<br>
+下面就是最令人激动的下载地址了:</p>
+<p><a href="http://www.caiyunapp.com/interpretation/">【官网下载】</a></p>
+<center><a style="color=#0052FF;"  href="http://www.caiyunapp.com/interpretation/">【官网下载】</a></center>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[疫情中的一天开始写的😘]]></title>
         <id>http://anzusummer.github.io/post/yi-qing-zhong-de-yi-tian-kai-shi-xie-de/</id>
