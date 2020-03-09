@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-09T07:42:49.720Z</updated>
+    <updated>2020-03-09T07:44:41.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -37,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[疫情中的一天开始写的😘]]></title>
-        <id>http://anzusummer.github.io/post/yi-qing-zhong-de-yi-tian-kai-shi-xie-de/</id>
-        <link href="http://anzusummer.github.io/post/yi-qing-zhong-de-yi-tian-kai-shi-xie-de/">
+        <id>http://anzusummer.github.io/post/one/</id>
+        <link href="http://anzusummer.github.io/post/one/">
         </link>
         <updated>2020-03-05T13:01:37.000Z</updated>
         <content type="html"><![CDATA[<p>目前还没想好主要关于什么方向的🤓，应该有资源分享和原创教程还有一些个人心得吧😇,就酱<img src="http://anzusummer.github.io//post-images/1583417971069.png" alt="" loading="lazy"></p>
