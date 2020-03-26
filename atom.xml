@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-26T04:58:45.484Z</updated>
+    <updated>2020-03-26T05:06:35.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>http://anzusummer.github.io/post/PqCaWwjuX/</id>
         <link href="http://anzusummer.github.io/post/PqCaWwjuX/">
         </link>
-        <updated>2020-03-25T09:42:11.000Z</updated>
+        <updated>2020-03-26T09:42:11.000Z</updated>
         <summary type="html"><![CDATA[<p>甭管你用的是什么浏览器，用的时间久了，启动速度越来越慢，有些小伙伴认为是插件装的太多，导致启动变慢，清理了不少插件也达不到当初秒开的效果。</p>
 <p><strong>那么究竟有什么方法能提高启动速度呢？</strong> 祭出这款用了5年的神器，效果如何，请看下表。</p>
 <table>
