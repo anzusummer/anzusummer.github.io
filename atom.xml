@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-25T09:39:17.748Z</updated>
+    <updated>2020-03-26T04:58:45.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -11,6 +11,87 @@
     <icon>http://anzusummer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
     <entry>
+        <title type="html"><![CDATA[轻轻一点！浏览器启动速度居然比原来快了3倍！]]></title>
+        <id>http://anzusummer.github.io/post/PqCaWwjuX/</id>
+        <link href="http://anzusummer.github.io/post/PqCaWwjuX/">
+        </link>
+        <updated>2020-03-25T09:42:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>甭管你用的是什么浏览器，用的时间久了，启动速度越来越慢，有些小伙伴认为是插件装的太多，导致启动变慢，清理了不少插件也达不到当初秒开的效果。</p>
+<p><strong>那么究竟有什么方法能提高启动速度呢？</strong> 祭出这款用了5年的神器，效果如何，请看下表。</p>
+<table>
+<thead>
+<tr>
+<th>浏览器</th>
+<th>使用前</th>
+<th><strong>使用后</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chrome</td>
+<td>2.36s</td>
+<td><strong>0.84s</strong></td>
+</tr>
+<tr>
+<td>Firefox</td>
+<td>3.25s</td>
+<td>1.17s</td>
+</tr>
+</tbody>
+</table>
+<p>显而易见，浏览器启动速度大幅提升。大概在2-3倍左右。</p>
+<h3 id="原理说明"><strong>原理说明</strong></h3>
+<p>浏览器用的时间越长，浏览器内置的数据库碎片化越严重，从而严重影响浏览器的启动速度。此软件可以优化合并废弃的碎片，从而达到加速的效果。</p>
+<p>此过程不会丢失任何文件，不影响已安装的扩展，历史记录，收藏夹。</p>
+<h3 id="操作"><strong>操作</strong></h3>
+<p>打开软件后会自动列出支持的浏览器，勾选下方支持的浏览器，点击右侧优化。</p>
+<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585129721422.png" alt="" loading="lazy"></figure>
+<p>优化过程可能需要5秒钟到1分钟，具体取决于数据库的大小。整个优化过程很安全，不会影响您的历史记录，书签，密码等。</p>
+<figure data-type="image" tabindex="2"><img src="http://anzusummer.github.io//post-images/1585129733723.png" alt="" loading="lazy"></figure>
+<p>最后重新打开浏览器看看，是不是和刚安装时一样”秒开“呢！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>甭管你用的是什么浏览器，用的时间久了，启动速度越来越慢，有些小伙伴认为是插件装的太多，导致启动变慢，清理了不少插件也达不到当初秒开的效果。</p>
+<p><strong>那么究竟有什么方法能提高启动速度呢？</strong> 祭出这款用了5年的神器，效果如何，请看下表。</p>
+<table>
+<thead>
+<tr>
+<th>浏览器</th>
+<th>使用前</th>
+<th><strong>使用后</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chrome</td>
+<td>2.36s</td>
+<td><strong>0.84s</strong></td>
+</tr>
+<tr>
+<td>Firefox</td>
+<td>3.25s</td>
+<td>1.17s</td>
+</tr>
+</tbody>
+</table>
+<p>显而易见，浏览器启动速度大幅提升。大概在2-3倍左右。</p>
+<h3 id="原理说明"><strong>原理说明</strong></h3>
+<p>浏览器用的时间越长，浏览器内置的数据库碎片化越严重，从而严重影响浏览器的启动速度。此软件可以优化合并废弃的碎片，从而达到加速的效果。</p>
+<p>此过程不会丢失任何文件，不影响已安装的扩展，历史记录，收藏夹。</p>
+<h3 id="操作"><strong>操作</strong></h3>
+<p>打开软件后会自动列出支持的浏览器，勾选下方支持的浏览器，点击右侧优化。</p>
+<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585129721422.png" alt="" loading="lazy"></figure>
+<p>优化过程可能需要5秒钟到1分钟，具体取决于数据库的大小。整个优化过程很安全，不会影响您的历史记录，书签，密码等。</p>
+<figure data-type="image" tabindex="2"><img src="http://anzusummer.github.io//post-images/1585129733723.png" alt="" loading="lazy"></figure>
+<p>最后重新打开浏览器看看，是不是和刚安装时一样”秒开“呢！</p>
+<!-- more -->
+<p><em>温馨提示：</em></p>
+<ul>
+<li>建议每1-2周执行一次优化效果更佳</li>
+<li>软件支持Chrome，Firefox，Edge等浏览器</li>
+</ul>
+<center><a style="color:#0052FF"  href="https://www.lanzous.com/b07rg2nsj">🌟【下载地址】🌟</a></center>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Win10也有开机音乐？我也要悄悄打开替换它!]]></title>
         <id>http://anzusummer.github.io/post/win10_Music/</id>
         <link href="http://anzusummer.github.io/post/win10_Music/">
@@ -18,14 +99,14 @@
         <updated>2020-03-25T06:21:45.000Z</updated>
         <content type="html"><![CDATA[<p>不知道小伙伴听到过下面这段熟悉的声音吗？</p>
 <audio controls>
-  <source src="http://mail.yaohuo.tech/down.php?k=7b61363929e4cac81c60c602436507185b560e5f535051001551015a044801075b041b000652571a0858025f070056010c59070b656b35fdd4ae928ca1accce5cc4f4158136541&code=8a69ee57" type="audio/wav">
+  <source src="http://mail.yaohuo.tech/down.php?k=7a363563b61697c81d37c55844395018000650025208520614030054561456015c0f1802015d521a58000602035b57040d060605623762fdd5f991d6a6f09be5cd184202143916&code=965cb9b7" type="audio/wav">
 </audio>
 <p>没错，它就是从Windows7开始电脑自带的开机音乐，不过从Windows10开始，它默认是关闭的，而且无法在设置中替换！</p>
 <p>这次我们不仅要<strong>开启而且要替换Windows的开机音乐</strong>，适用于WinXP，Win7，Win10。</p>
 <p><strong>例如替换成下面的音乐：</strong></p>
 <p>替换成王者荣耀开机出场音效或者某个英雄的音效：</p>
 <audio controls>
-  <source src="http://mail.yaohuo.tech/down.php?k=653561309a99cbc91534910b1231061908075352030305051c030053551c000103014c080c04051b015352050606510e55535304342e34899b8e9be2c0e193161c15da86e79cf4828488acc5e1eefcefe39e4f4755473442&code=15a04146" type="audio/wav">
+  <source src="http://mail.yaohuo.tech/down.php?k=6d34396281a4dacb1d35c9591364071b0a025b550c000c57140c0e070d49015201521400565d02190a505d035154010101070903357b358b938fc3b0c1b49214141482d4e6c9f5808c89f497e0bbfdedeb9f171554123540&code=949b5d54&fr=00&&txf_fid=94adc6f152cbc1eaf97748c2bf5625afd60f68e9&xffz=1064780" type="audio/wav">
 </audio>
 <p><strong>下面就教大家怎么替换默认的开机音乐。</strong></p>
 <h3 id="教程开始"><strong>教程开始</strong></h3>
@@ -40,7 +121,7 @@
 <p>到此，替换完成，如果想恢复原来的音乐，只需要点击 Restore 开头的即可。当然有自己喜欢的音乐可以将其转换为wav格式后替换！</p>
 <p><s>咳咳 我的:</s></p>
 <audio controls>
-  <source src="http://mail.yaohuo.tech/down.php?k=6e346262a2189bcd1c3592591765561d01035254050157541502045a024850040d564f5b5701511f0f57075300535600590751073144648d928f98b0c5b5c3121514a5898fc4a3db8fe0daa2d7c2d888eec3aaa91f1205443840&code=84bb1ed2" type="audio/wav">
+  <source src="http://mail.yaohuo.tech/down.php?k=6e3030375f40989b1c31c00c1335504b5d5506555453550515015302061856060d041d550200014959055402060706545a020003351462db928bcae5c1e5c5441510f7dc8b94a58d8fe488f7d392dedeeec7f8fc1b4203123844&code=800755bd" type="audio/wav">
 </audio>  
 <p><em>注意事项</em></p>
 <ul>
