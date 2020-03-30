@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-26T05:22:28.597Z</updated>
+    <updated>2020-03-30T13:59:16.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -10,55 +10,6 @@
     <logo>http://anzusummer.github.io/images/avatar.png</logo>
     <icon>http://anzusummer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
-    <entry>
-        <title type="html"><![CDATA[轻轻一点！浏览器启动速度居然比原来快了3倍！]]></title>
-        <id>http://anzusummer.github.io/post/PqCaWwjuX/</id>
-        <link href="http://anzusummer.github.io/post/PqCaWwjuX/">
-        </link>
-        <updated>2020-03-26T09:42:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>无论你用的是什么浏览器，用的时间久了，启动速度越来越慢，有些小伙伴认为是插件装的太多，导致启动变慢，清理了不少插件也达不到当初秒开的效果。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>无论你用的是什么浏览器，用的时间久了，启动速度越来越慢，有些小伙伴认为是插件装的太多，导致启动变慢，清理了不少插件也达不到当初秒开的效果。</p>
-<!-- more -->
-<p><strong>那么究竟有什么方法能提高启动速度呢？</strong> 祭出这款用了5年的神器，效果如何，请看下表。</p>
-<table>
-<thead>
-<tr>
-<th>浏览器</th>
-<th>使用前</th>
-<th><strong>使用后</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Chrome</td>
-<td>2.36s</td>
-<td><strong>0.84s</strong></td>
-</tr>
-<tr>
-<td>Firefox</td>
-<td>3.25s</td>
-<td>1.17s</td>
-</tr>
-</tbody>
-</table>
-<p>显而易见，浏览器启动速度大幅提升。大概在2-3倍左右。</p>
-<h3 id="原理说明"><strong>原理说明</strong></h3>
-<p>浏览器用的时间越长，浏览器内置的数据库碎片化越严重，从而严重影响浏览器的启动速度。此软件可以优化合并废弃的碎片，从而达到加速的效果。</p>
-<p>此过程不会丢失任何文件，不影响已安装的扩展，历史记录，收藏夹。</p>
-<h3 id="操作"><strong>操作</strong></h3>
-<p>打开软件后会自动列出支持的浏览器，勾选下方支持的浏览器，点击右侧优化。</p>
-<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585129721422.png" alt="" loading="lazy"></figure>
-<p>优化过程可能需要5秒钟到1分钟，具体取决于数据库的大小。整个优化过程很安全，不会影响您的历史记录，书签，密码等。</p>
-<figure data-type="image" tabindex="2"><img src="http://anzusummer.github.io//post-images/1585129733723.png" alt="" loading="lazy"></figure>
-<p>最后重新打开浏览器看看，是不是和刚安装时一样”秒开“呢！</p>
-<p><em>温馨提示：</em></p>
-<ul>
-<li>建议每1-2周执行一次优化效果更佳</li>
-<li>软件支持Chrome，Firefox，Edge等浏览器</li>
-</ul>
-<center><a style="color:#0052FF"  href="https://www.lanzous.com/b07rg2nsj">🌟【下载地址】🌟</a></center>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Win10也有开机音乐？我也要悄悄打开替换它!]]></title>
         <id>http://anzusummer.github.io/post/win10_Music/</id>
