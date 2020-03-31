@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-30T13:59:16.832Z</updated>
+    <updated>2020-03-31T04:16:26.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>http://anzusummer.github.io/images/avatar.png</logo>
     <icon>http://anzusummer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
+    <entry>
+        <title type="html"><![CDATA[Fiddler Web Debugger中文版]]></title>
+        <id>http://anzusummer.github.io/post/FD/</id>
+        <link href="http://anzusummer.github.io/post/FD/">
+        </link>
+        <updated>2020-03-31T04:01:08.000Z</updated>
+        <content type="html"><![CDATA[<p>Fiddler是一个C#实现的浏览器抓包和调试工具，fiddler启用后作为一个proxy存在于浏览器和服务器之间，从中监测浏览器与服务器之间的http/https级别的网络交互。目前可以支持各种主要浏览器如IE, Chrome, FireFox, Safari, Opera。Fiddler是最强大最好用的Web调试工具之一，已更新至5.0.20194.41348版。它能记录所有客户端和服务器的http和https请求，允许用户监视，设置断点，甚至修改输入输出数据。<br>
+是我经常使用的一款抓包软件<br>
+<img src="http://anzusummer.github.io//post-images/1585627328219.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585627333118.jpg" alt="" loading="lazy"></figure>
+<p>后期汉化更新可以去<br>
+GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
+<center><a style="color:#0052FF"  href="https://www.lanzous.com/iatrzyf">🌟【下载地址】🌟</a></center>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Win10也有开机音乐？我也要悄悄打开替换它!]]></title>
         <id>http://anzusummer.github.io/post/win10_Music/</id>
