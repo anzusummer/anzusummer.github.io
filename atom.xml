@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-31T04:56:24.069Z</updated>
+    <updated>2020-03-31T05:21:04.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -12,15 +12,15 @@
     <rights>All rights reserved 2020, 暗组小站</rights>
     <entry>
         <title type="html"><![CDATA[HTTP Debugger Pro汉化版]]></title>
-        <id>http://anzusummer.github.io/post/httpde/</id>
-        <link href="http://anzusummer.github.io/post/httpde/">
+        <id>http://anzusummer.github.io/post/1ngSlXatx/</id>
+        <link href="http://anzusummer.github.io/post/1ngSlXatx/">
         </link>
-        <updated>2020-03-31T04:17:01.000Z</updated>
+        <updated>2020-04-01T05:13:44.000Z</updated>
         <content type="html"><![CDATA[<p>上次给你们带来了FD,此软件的<strong>优点</strong>是可以捕获进程内的数据包，不同FD的<strong>代理抓包</strong>。</p>
-<p>HTTP Debugger Pro 主要是用来测试调试复杂的网站应用程序，通过这款软件可以帮助用户实时跟踪显示浏览器和网站服务器之间的所有通讯信息，既是一个专业的网络抓包工具，也是一款网站开发调试工具，网站开发人员可以通过它来分析程序和互联网之间的通信，可以查看和分析任何应用程序和 web 服务器之间通过 HTTP 和 HTTPS 协议的通信，开发人员根据这些信息可以对网站进行优化和调试，网站运行更加稳定。支持Internet Explorer, Mozilla Firefox, Opera和谷歌Chrome等浏览器，是一款非常专业的网站开发工具。<br>
-<img src="http://anzusummer.github.io//post-images/1585629727684.png" alt="" loading="lazy"></p>
-<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585629732081.png" alt="" loading="lazy"></figure>
-<p>✨<strong>使用说明</strong>：<br>
+<p>HTTP Debugger Pro 主要是用来测试调试复杂的网站应用程序，通过这款软件可以帮助用户实时跟踪显示浏览器和网站服务器之间的所有通讯信息，既是一个专业的网络抓包工具，也是一款网站开发调试工具，网站开发人员可以通过它来分析程序和互联网之间的通信，可以查看和分析任何应用程序和 web 服务器之间通过 HTTP 和 HTTPS 协议的通信，开发人员根据这些信息可以对网站进行优化和调试，网站运行更加稳定。支持Internet Explorer, Mozilla Firefox, Opera和谷歌Chrome等浏览器，是一款非常专业的网站开发工具。</p>
+<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585632040276.png" alt="" loading="lazy"></figure>
+<p><img src="http://anzusummer.github.io//post-images/1585632043688.png" alt="" loading="lazy"><br>
+✨<strong>使用说明</strong>：<br>
 下载后先安装原版程序，然后复制汉化补丁到软件根目录，以后打开“HTTPDebuggerUI_zh.exe”就是汉化，打开原版就是英文，然后打开注册机，先点击Gen，然后点击Activate就激活了。</p>
 <center><a style="color:#0052FF"  href="https://www.lanzous.com/iatrsji">🌟【下载地址】🌟</a></center>]]></content>
     </entry>
