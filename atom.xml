@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-31T04:16:26.235Z</updated>
+    <updated>2020-03-31T04:49:49.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -11,12 +11,26 @@
     <icon>http://anzusummer.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 暗组小站</rights>
     <entry>
+        <title type="html"><![CDATA[HTTP Debugger Pro汉化版]]></title>
+        <id>http://anzusummer.github.io/post/httpdebug/</id>
+        <link href="http://anzusummer.github.io/post/httpdebug/">
+        </link>
+        <updated>2020-03-31T04:17:01.000Z</updated>
+        <content type="html"><![CDATA[<p>上次给你们带来了FD,此软件的<strong>优点</strong>是可以捕获进程内的数据包，不同FD的<strong>代理抓包</strong>。</p>
+<p>HTTP Debugger Pro 主要是用来测试调试复杂的网站应用程序，通过这款软件可以帮助用户实时跟踪显示浏览器和网站服务器之间的所有通讯信息，既是一个专业的网络抓包工具，也是一款网站开发调试工具，网站开发人员可以通过它来分析程序和互联网之间的通信，可以查看和分析任何应用程序和 web 服务器之间通过 HTTP 和 HTTPS 协议的通信，开发人员根据这些信息可以对网站进行优化和调试，网站运行更加稳定。支持Internet Explorer, Mozilla Firefox, Opera和谷歌Chrome等浏览器，是一款非常专业的网站开发工具。<br>
+<img src="http://anzusummer.github.io//post-images/1585629727684.png" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585629732081.png" alt="" loading="lazy"></figure>
+<p>✨<strong>使用说明</strong>：<br>
+下载后先安装原版程序，然后复制汉化补丁到软件根目录，以后打开“HTTPDebuggerUI_zh.exe”就是汉化，打开原版就是英文，然后打开注册机，先点击Gen，然后点击Activate就激活了。</p>
+<center><a style="color:#0052FF"  href="https://www.lanzous.com/iatrsji">🌟【下载地址】🌟</a></center>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fiddler Web Debugger中文版]]></title>
         <id>http://anzusummer.github.io/post/FD/</id>
         <link href="http://anzusummer.github.io/post/FD/">
         </link>
         <updated>2020-03-31T04:01:08.000Z</updated>
-        <content type="html"><![CDATA[<p>Fiddler是一个C#实现的浏览器抓包和调试工具，fiddler启用后作为一个proxy存在于浏览器和服务器之间，从中监测浏览器与服务器之间的http/https级别的网络交互。目前可以支持各种主要浏览器如IE, Chrome, FireFox, Safari, Opera。Fiddler是最强大最好用的Web调试工具之一，已更新至5.0.20194.41348版。它能记录所有客户端和服务器的http和https请求，允许用户监视，设置断点，甚至修改输入输出数据。<br>
+        <content type="html"><![CDATA[<p>Fiddler是一个C#实现的浏览器<strong>抓包和调试工具</strong>，fiddler启用后作为一个proxy存在于浏览器和服务器之间，从中监测浏览器与服务器之间的http/https级别的网络交互。目前可以支持各种主要浏览器如IE, Chrome, FireFox, Safari, Opera。Fiddler是最强大最好用的Web调试工具之一，已更新至5.0.20194.41348版。它能记录所有客户端和服务器的http和https请求，允许用户监视，设置断点，甚至修改输入输出数据。<br>
 是我经常使用的一款抓包软件<br>
 <img src="http://anzusummer.github.io//post-images/1585627328219.jpg" alt="" loading="lazy"></p>
 <figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1585627333118.jpg" alt="" loading="lazy"></figure>
@@ -88,18 +102,5 @@ GitHub：https://github.com/gabrielxvx/zh-fiddler</p>
 速度=网速+延迟(亿点点)🙌不过对于你们应该够用了<br>
 下面就是最令人激动的下载地址了:</p>
 <center><a style="color:#0052FF"  href="https://www.caiyunapp.com/interpretation/">【官网下载】</a></center>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疫情中的一天开始写的😘]]></title>
-        <id>http://anzusummer.github.io/post/one/</id>
-        <link href="http://anzusummer.github.io/post/one/">
-        </link>
-        <updated>2020-03-05T13:01:37.000Z</updated>
-        <summary type="html"><![CDATA[<p>目前还没想好主要关于什么方向的🤓，应该有资源分享和原创教程还有一些个人心得吧😇,就酱</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>目前还没想好主要关于什么方向的🤓，应该有资源分享和原创教程还有一些个人心得吧😇,就酱</p>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="http://anzusummer.github.io//post-images/1583417971069.png" alt="" loading="lazy"></figure>
-]]></content>
     </entry>
 </feed>
