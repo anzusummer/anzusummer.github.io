@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://anzusummer.github.io/</id>
     <title>暗组小站</title>
-    <updated>2020-03-31T04:49:49.967Z</updated>
+    <updated>2020-03-31T04:56:24.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://anzusummer.github.io/"/>
     <link rel="self" href="http://anzusummer.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 暗组小站</rights>
     <entry>
         <title type="html"><![CDATA[HTTP Debugger Pro汉化版]]></title>
-        <id>http://anzusummer.github.io/post/httpdebug/</id>
-        <link href="http://anzusummer.github.io/post/httpdebug/">
+        <id>http://anzusummer.github.io/post/httpde/</id>
+        <link href="http://anzusummer.github.io/post/httpde/">
         </link>
         <updated>2020-03-31T04:17:01.000Z</updated>
         <content type="html"><![CDATA[<p>上次给你们带来了FD,此软件的<strong>优点</strong>是可以捕获进程内的数据包，不同FD的<strong>代理抓包</strong>。</p>
